@@ -1,0 +1,16 @@
+{
+  "name": "faisal-node-java-combined",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "huhammadfaisal <faisal.muhammad@contrastsecurity.com>",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "escape-html": "^1.0.3",
+    "serve-static": "^1.12.4",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
